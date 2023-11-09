@@ -2,7 +2,7 @@
 
 import { Box, Typography } from "@mui/material";
 
-export default function name() {
+export default function BoxTest() {
   return (
     <Box>
       <Typography>Test</Typography>
